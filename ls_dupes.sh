@@ -1,6 +1,6 @@
 #!/bin/bash
 
-root=Pictures/2012
+root=/Volumes/Archive/Pictures
 
 for f in $(find $root -name '*.JPG')
 do
